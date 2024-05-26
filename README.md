@@ -21,6 +21,7 @@ Install dependencies using pip:
 bash
 Copy code
 pip install -r requirements.txt
+
 Configuration
 Before running the script, you need to set up your API keys:
 
