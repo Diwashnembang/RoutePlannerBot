@@ -1,0 +1,7 @@
+.env
+# Ignore Python virtual environment
+pyvenv.cfg
+Lib/
+
+# Ignore local scripts or executables
+Scripts/
